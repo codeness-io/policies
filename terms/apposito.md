@@ -8,7 +8,7 @@ Estos Términos de servicio (“Términos”, “Términos de servicio”) rigen
 
 Nuestra Política de privacidad también rige tu uso de nuestro Servicio y explica cómo recopilamos, protegemos y divulgamos la información que resulta de su uso. Léelo aquí https://apposito.codeness.io/politicas-de-privacidad.
 
-Tu acuerdo con nosotros incluye estos Términos y nuestra Política de privacidad ("“Acuerdos”). Tu reconoces que has leído y comprendido los Acuerdos y aceptas regirte por ellos.
+Tu acuerdo con nosotros incluye estos Términos y nuestra Política de privacidad (“Acuerdos”). Reconoces que has leído y comprendido los Acuerdos y aceptas regirte por ellos.
 
 Si no estás de acuerdo con (o no puedes cumplir) los Acuerdos, entonces no podrás utilizar el Servicio. Sin embargo, puedes enviarnos un correo a soporte@codeness.io para que podemos tratar de encontrar una solución. Estos Términos se aplican a todos los visitantes, usuarios y otras personas que deseen acceder o utilizar el Servicio.
 
@@ -20,7 +20,7 @@ La aplicación proporciona a los usuarios una intraestructura técnica donde alm
 
 Al crear una Cuenta en nuestro Servicio, aceptas suscribirte a boletines informativos, materiales de marketing o promocionales y otra información que podamos enviar. Sin embargo, puedes optar por no recibir alguna o todas estas comunicaciones de nuestra parte siguiendo el enlace para cancelar la suscripción o enviando un correo electrónico a soporte@codeness.io
 
-Como mencionamos en nuestra política de privacidad, tenemos una política de no hacer seguimiento de actividad. Esto significa que cualquier correo que te enviemos **viene libre de los llamados** ["Spy pixel"](https://en.wikipedia.org/wiki/Spy_pixel) que sirven para saber cuánto abriste tu correo.
+Como mencionamos en nuestra política de privacidad, tenemos una política de no hacer seguimiento de actividad. Esto significa que cualquier correo que te enviemos **viene libre de los llamados** [“Spy pixel”](https://en.wikipedia.org/wiki/Spy_pixel) que sirven para saber cuánto abriste tu correo.
 
 ## Cambios de tarifas
 
@@ -34,7 +34,7 @@ Emitimos reembolsos por Contratos dentro de los siete (7) días posteriores a la
 
 ## Contenido
 
-Nuestro servicio permite subir información de heridas de tus pacientes, que incluye la fecha de la herida o evaluación, la ubicación de la herida, una descripción y la imagen de la herida ("Contenido"). Tu eres responsable de tener el consentimiento informado del paciente o de su tutor para almacenar y publicar el contenido en Apposito, así como también su la legalidad, confiabilidad y adecuación.
+Nuestro servicio permite subir información de heridas de tus pacientes, que incluye la fecha de la herida o evaluación, la ubicación de la herida, una descripción y la imagen de la herida (“Contenido”). Tu eres responsable de tener el consentimiento informado del paciente o de su tutor para almacenar y publicar el contenido en Apposito, así como también su la legalidad, confiabilidad y adecuación.
 
 Al publicar Contenido a través del Servicio, declaras y garantizas que: 
 
@@ -80,9 +80,9 @@ El servicio y su contenido original (excluido el contenido proporcionado por los
 
 ## Política de derechos de autor
 
-Respetamos los derechos de propiedad intelectual de otros. Es nuestra política responder a cualquier reclamo de que el Contenido publicado en el Servicio infringe los derechos de autor u otros derechos de propiedad intelectual ("Infracción") de cualquier persona o entidad.
+Respetamos los derechos de propiedad intelectual de otros. Es nuestra política responder a cualquier reclamo de que el Contenido publicado en el Servicio infringe los derechos de autor u otros derechos de propiedad intelectual (“Infracción”) de cualquier persona o entidad.
 
-Si eres propietario de derechos de autor, o estás autorizado en nombre de uno, y cree que el trabajo protegido por derechos de autor se ha copiado de una manera que constituye una infracción de derechos de autor, envía tu reclamo por correo electrónico a soporte@codeness.io, con el asunto: "Infracción de derechos de autor" e incluye en tu reclamo una descripción detallada de la supuesta infracción como se detalla a continuación, en "Aviso de DMCA y procedimiento para reclamos de infracción de derechos de autor".
+Si eres propietario de derechos de autor, o estás autorizado en nombre de uno, y cree que el trabajo protegido por derechos de autor se ha copiado de una manera que constituye una infracción de derechos de autor, envía tu reclamo por correo electrónico a soporte@codeness.io, con el asunto: “Infracción de derechos de autor” e incluye en tu reclamo una descripción detallada de la supuesta infracción como se detalla a continuación, en “Aviso de DMCA y procedimiento para reclamos de infracción de derechos de autor”.
 
 Es posible que seas responsable de los daños (incluidos los costos y los honorarios de los abogados) por tergiversación o reclamos de mala fe sobre la infracción de cualquier Contenido encontrado en y/o través del Servicio sobre sus derechos de autor.
 
@@ -123,7 +123,7 @@ Si notificados de los cambios en los Términos de Uso, los Usuarios continúan u
 
 ## Renuncia de responsabilidad
 
-El uso del Servicio es bajo tu propio riesgo. El Servicio se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD". El Servicio se proporciona sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías implícitas de comerciabilidad, idoneidad para un propósito particular, no infracción o curso de ejecución.
+El uso del Servicio es bajo tu propio riesgo. El Servicio se proporciona “TAL CUAL” y “SEGÚN DISPONIBILIDAD”. El Servicio se proporciona sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías implícitas de comerciabilidad, idoneidad para un propósito particular, no infracción o curso de ejecución.
 
 Codeness Tecnologies SpA, sus subsidiarias, afiliadas y sus otorgantes de licencias no garantizan que a) el Servicio funcionará de manera ininterrumpida, segura o estará disponible en cualquier momento o lugar en particular; b) se corregirán los errores o defectos; c) el Servicio está libre de virus u otros componentes dañinos; o d) los resultados del uso del Servicio cumplirán con sus requisitos.
 
