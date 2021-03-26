@@ -6,7 +6,7 @@
 
 Estos Términos de servicio (“Términos”, “Términos de servicio”) rigen el uso de nuestra aplicación móvil Apposito operada por Codeness Technologies SpA (“Compañía”, “nosotros”, “nuestro”, “nos”).
 
-Nuestra Política de privacidad también rige tu uso de nuestro Servicio y explica cómo recopilamos, protegemos y divulgamos la información que resulta de su uso. Léalo aquí https://apposito.codeness.io/politica-de-privacidad.
+Nuestra Política de privacidad también rige tu uso de nuestro Servicio y explica cómo recopilamos, protegemos y divulgamos la información que resulta de su uso. Léelo aquí https://apposito.codeness.io/politicas-de-privacidad.
 
 Tu acuerdo con nosotros incluye estos Términos y nuestra Política de privacidad ("“Acuerdos”). Tu reconoces que has leído y comprendido los Acuerdos y aceptas regirte por ellos.
 
