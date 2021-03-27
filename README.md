@@ -5,6 +5,7 @@ _Disclaimer: Las políticas de este repositorio no han sido analizadas por aboga
 Listado de políticas:
 
 - [Política de privacidad de Apposito](privacy/apposito.md)
+- [Términos de Apposito](terms/apposito.md)
 
 ---
 
